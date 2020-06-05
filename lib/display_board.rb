@@ -5,4 +5,4 @@ def display_board
   puts "___________"
   puts "   |   |   "
 end
-display board
+display_board
